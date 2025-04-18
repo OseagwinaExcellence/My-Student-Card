@@ -1,0 +1,48 @@
+body {
+     background-color: lightseagreen;
+     }
+     
+     img {
+          width: 150px;
+          border-radius: 100px;
+     }
+     
+     .card-div {
+          margin: 150px;
+          display: flex;
+          justify-content: space-around;
+          width: 700px;
+          margin-left: auto;
+          margin-right: auto;
+          border: 8px dotted blue ;
+          border-bottom: 11px solid grey; 
+          padding-top: 50px;
+          padding-bottom: 50px;
+          background-color: lightblue;
+     }
+     
+     
+     
+     .card-text {
+          font-family: monospace;
+          text-align: center;
+          
+          
+     }
+     
+     h1 {
+          color: cornflowerblue;
+     }
+     
+     
+     h3 { 
+          font-weight: bold;
+          font-size: 20px;
+          color: darkblue;
+     }
+     h4 {
+          font-weight: bold;
+          font-size: 15px;
+          color: brown;
+     }
+     
